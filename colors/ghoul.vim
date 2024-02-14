@@ -1,9 +1,9 @@
 
 "AUTHOR: Devon McKenzie
 "SCRIPT: https://github.com/ZealousProgramming/nvim-zp-themes/ghoul/colors/ghoul.vim
-"VERSION: v1.1
+"VERSION: v1.2
 "
-"UPDATED: Feburary 12th, 2024
+"UPDATED: Feburary 14th, 2024
 "-----------------
 "LICENSE
 "Copyright (c) 2020 Devon McKenzie
@@ -26,7 +26,7 @@
 "OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 "THE SOFTWARE.
 "-----------------
-"CHANGES: Warning Message Color
+"CHANGES: Spell Colors
 "
 
 " colorscheme ghoul
@@ -102,8 +102,8 @@ highlight link diffRemoved DiffDelete
 
 "SPELLING
 highlight SpellBad guifg=#d75f5f guibg=NONE gui=undercurl ctermfg=167 ctermbg=NONE cterm=undercurl
-highlight SpellLocal guifg=#5f875f guibg=NONE gui=undercurl ctermfg=65 ctermbg=NONE cterm=undercurl
-highlight SpellCap guifg=#87afff guibg=NONE gui=undercurl ctermfg=111 ctermbg=NONE cterm=undercurl
+highlight SpellLocal guifg=#6ef8be guibg=NONE gui=undercurl ctermfg=65 ctermbg=NONE cterm=undercurl
+highlight SpellCap guifg=#6ef8be guibg=NONE gui=undercurl ctermfg=111 ctermbg=NONE cterm=undercurl
 highlight SpellRare guifg=#ff8700 guibg=NONE gui=undercurl ctermfg=208 ctermbg=NONE cterm=undercurl
 
 "WINDOW UI
